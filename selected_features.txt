@@ -1,0 +1,12 @@
+Exited
+Age
+Geography_Germany
+IsActiveMember
+Balance
+Geography_France
+Gender_Female
+Gender_Male
+Geography_Spain
+NumOfProducts
+CreditScore
+Tenure
